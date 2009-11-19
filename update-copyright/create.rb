@@ -1,9 +1,9 @@
 files = {
-  'a.rb' => ["# Copyright 2000-2008 Yoyodine Inc.",
+  'a.rb' => ["# Copyright 2000-2009 Yoyodine Inc.",
              "# a.rb : A super duper library for you to use"],
-  'b.rb' => ["# Copyright 2000-2008 Yoyodine Inc.",
+  'b.rb' => ["# Copyright 2000-2009 Yoyodine Inc.",
              "# b.rb : The core, vital, part of your applicaiton."],
-  'c.rb' => ["# Copyright 2000-2008 Yoyodine Inc.",
+  'c.rb' => ["# Copyright 2000-2009 Yoyodine Inc.",
              "# c.rb : Just some humble support code"],
 }
 
