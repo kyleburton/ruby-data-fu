@@ -8,7 +8,7 @@ files = {
 }
 
 # remove the .bak files
-system('rm *.bak')
+system('rm *.bak > /dev/null')
 
 files.each do |name,lines|
   File.open(name,"w") do |out|
